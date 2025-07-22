@@ -53,7 +53,7 @@ puffilux/
 
 | Système d'exploitation | Statut    |
 |------------------------|-----------|
-| Ubuntu 20.04 / 22.04   | ✅ Testé  |
+| Ubuntu 20.04 / 24.04   | ✅ Testé  |
 | Debian 11 / 12         | ✅ Testé  |
 | PufferPanel Docker     | ❌ Non supporté pour l’instant |
 | Windows Server         | ❌ Incompatible |
@@ -83,5 +83,3 @@ puffilux/
 
 Créé par **Arklandia Team**  
 Licence : [MIT](LICENSE)
-
-💬 Contact : [https://arklandia.hostmyplay.fr](https://arklandia.hostmyplay.fr)
